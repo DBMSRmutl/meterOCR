@@ -1,4 +1,4 @@
-import cv2
+import cv2 kkk
 import numpy as np
 import os
 def readimage():
