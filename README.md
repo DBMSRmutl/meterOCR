@@ -1,5 +1,8 @@
 # meterOCR
 Create by
 Mr.Phanuphong Duangngao
-Mr.Kawchai Eurviriyanukul
+/n
 Mrs.Warisa Wikasilp
+Mrs.Natikan Saomanee  
+Mr.kwanchai Eurviriyanukul
+
