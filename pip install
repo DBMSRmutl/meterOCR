@@ -1,1 +1,2 @@
 sudo apt-get install python-pandas
+apt-get install python-pip
