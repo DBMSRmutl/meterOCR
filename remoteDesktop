@@ -4,3 +4,8 @@ sudo apt-get install xfce4
 sudo /etc/init.d/xrdp start
 sudo adduser ocr
 sudo adduser ocr sudo
+echo xfce4-session >~/.xsession
+#edit /etc/xrdp/startwm.sh
+#. /etc/X11/Xsession
+. /usr/bin/startxfce4
+sudo service xrdp restart
