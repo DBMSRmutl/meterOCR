@@ -1,7 +1,7 @@
 sudo apt-get install Ubuntu-desktop
 sudo apt-get install xfce4
-//sudo apt-get install xrdp
-sudo /etc/init.d/xrdp start
+#sudo apt-get install xrdp
+#sudo /etc/init.d/xrdp start
 sudo adduser ocr
 sudo adduser ocr sudo
 echo xfce4-session >~/.xsession
