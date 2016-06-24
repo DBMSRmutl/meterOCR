@@ -7,5 +7,5 @@ sudo adduser ocr sudo
 sudo echo xfce4-session >~/.xsession
 #edit /etc/xrdp/startwm.sh
 #. /etc/X11/Xsession
-. /usr/bin/startxfce4
+sudo . /usr/bin/startxfce4
 sudo service xrdp restart
