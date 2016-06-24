@@ -1,3 +1,4 @@
+https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-linux-classic-remote-desktop/
 sudo apt-get install Ubuntu-desktop
 sudo apt-get install xfce4
 sudo apt-get install xrdp
