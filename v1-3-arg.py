@@ -3,7 +3,7 @@ import numpy as np
 import os
 import sys
 import time
-from uploadToGDrive import main_upload
+#from uploadToGDrive import main_upload
 #import uploadToGDrive
 
 def readimage(filename):
