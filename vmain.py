@@ -3,6 +3,7 @@ import sys
 import subprocess
 
 foldername = 'results'
+ocrFileName = 'python v1-3-arg.py'
 for filename in os.listdir('/home/ubuntu/pyview/Test/pics'):
         #print  filename
    	fullFilename = (u'/home/ubuntu/pyview/Test/pics/'+filename)
@@ -12,8 +13,10 @@ for filename in os.listdir('/home/ubuntu/pyview/Test/pics'):
 
 	print  'pathForEachResult = '+ pathForEachResult
     	#print fullFilename
-	#qx = os.system('python v1-3-arg.py '+fullFilename+' '+pathForEachResult)
-	qx = os.system('python v1-3-arg.py fullFilename pathForEachResult')
+	qx = os.system('python v1-3-arg.py '+fullFilename+' '+pathForEachResult)
+	#qx = os.system('python v1-3-arg.py fullFilename pathForEachResult')
+	#print 'full command= '+ocrFileName+' '+fullFilename+' '+pathForEachResult
+	#qx = os.system(ocrFileName fullFilename pathForEachResult)
 	#result = subprocess.check_output(os.system('python v1-3-arg.py '+fullFilename+' '+pathForEachResult), shell=True)
 	#print 'qx ='+result
 	
