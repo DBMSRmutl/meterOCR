@@ -11,3 +11,5 @@ Mrs.Natikan Saomanee
 Mr.kwanchai Eurviriyanukul
 
 https://github.com/DBMSRmutl/meterOCR/blob/master/test.jpg
+
+![alt text](https://github.com/DBMSRmutl/meterOCR/blob/master/test.jpg)
